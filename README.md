@@ -50,3 +50,7 @@ Ao utilizar a tecnologia blockchain, a DAO Connect garante a transparência e co
 
 ## Conclusão
 O projeto da DAO Connect busca criar um ambiente colaborativo e transparente, onde os membros podem contribuir ativamente para o crescimento e sucesso da organização. Com uma governança descentralizada e incentivos para participação, a DAO Connect visa fortalecer as comunidades descentralizadas e promover a inovação e cooperação entre seus membros.
+
+
+## Autor
+Este contrato foi desenvolvido por Nayum Teixeira
